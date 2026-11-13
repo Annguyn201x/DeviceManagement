@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "manegment_device": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

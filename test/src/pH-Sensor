@@ -1,0 +1,39 @@
+ #include <Arduino.h>
+
+#define PH_PIN 34
+float phValue = 0.0;
+const float V_ESP = 3.3; 
+
+// CHÚ Ý: Đổi số 1.500 này thành mức điện áp ổn định thực tế bạn đọc được khi nối tắt BNC
+const float V_OFFSET = 2.5; 
+
+void setup() {
+  Serial.begin(115200);
+  analogSetPinAttenuation(PH_PIN, ADC_11db); 
+}
+
+void loop() {
+  long sum = 0;
+  
+  // 1. TĂNG LẤY MẪU LÊN 100 LẦN ĐỂ CHỐNG NHIỄU
+  for(int i = 0; i < 100; i++) {
+    sum += analogRead(PH_PIN);
+    delay(5);
+  }
+  
+  // Nhớ chia cho 100.0 để lấy trung bình
+  float adcValue = sum / 100.0;
+ float voltage = adcValue * (V_ESP / 4095.0); 
+  
+  // 2. CÔNG THỨC MỚI DÙNG BIẾN V_OFFSET
+  phValue = 7.0 + ((V_OFFSET - voltage) / 0.18);
+
+  Serial.print("Raw ADC: ");
+  Serial.print(adcValue);
+  Serial.print(" | Voltage: ");
+  Serial.print(voltage, 3);
+  Serial.print("V | pH: ");
+  Serial.println(phValue, 2);
+
+  delay(1000);
+}

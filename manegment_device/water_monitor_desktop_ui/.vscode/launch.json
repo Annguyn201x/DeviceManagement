@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Water Monitor WinForms",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-winforms",
+      "program": "${workspaceFolder}/WinFormsApp/bin/Debug/net8.0-windows/WaterMonitor.exe",
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "justMyCode": true
+    }
+  ]
+}

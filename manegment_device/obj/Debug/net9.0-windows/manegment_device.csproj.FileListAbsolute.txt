@@ -1,0 +1,237 @@
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.AssemblyReference.cache
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.GeneratedMSBuildEditorConfig.editorconfig
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfoInputs.cache
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfo.cs
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.CoreCompileInputs.cache
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.exe
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.deps.json
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.pdb
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\Google.Protobuf.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\MySql.Data.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\ZstdSharp.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegmen.59A093EB.Up2Date
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\refint\manegment_device.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.pdb
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.genruntimeconfig.cache
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\ref\manegment_device.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Sign_form.resources
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.GenerateResource.cache
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\Guna.UI2.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Management.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\ReaLTaiizor.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Permissions.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Menuu.resources
+A:\Bài Tập Lớn\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.login_form.resources
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.exe
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.deps.json
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.pdb
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Google.Protobuf.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Guna.UI2.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\MySql.Data.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\ReaLTaiizor.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Management.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Permissions.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\ZstdSharp.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Core.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.WinForms.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Wpf.dll
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Core.xml
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.WinForms.xml
+A:\DEVICE\manegment_device\manegment_device\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Wpf.xml
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.AssemblyReference.cache
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.login_form.resources
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Menuu.resources
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Sign_form.resources
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.GenerateResource.cache
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.GeneratedMSBuildEditorConfig.editorconfig
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfoInputs.cache
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfo.cs
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.CoreCompileInputs.cache
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.sourcelink.json
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegmen.59A093EB.Up2Date
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.dll
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\refint\manegment_device.dll
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.pdb
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.genruntimeconfig.cache
+A:\DEVICE\manegment_device\manegment_device\obj\Debug\net9.0-windows\ref\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.AssemblyReference.cache
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.login_form.resources
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Menuu.resources
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Sign_form.resources
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.GenerateResource.cache
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfoInputs.cache
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfo.cs
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.CoreCompileInputs.cache
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\refint\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\Guna.UI2.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\MQTTnet.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\ReaLTaiizor.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Security.Permissions.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegmen.59A093EB.Up2Date
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.genruntimeconfig.cache
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\ref\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_auth-verify-build\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_auth-verify-build\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_auth-verify-build\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_auth-verify-build\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_auth-verify-build\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_back-button-build\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_back-button-build\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_back-button-build\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_back-button-build\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_back-button-build\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_auth-redesign-build\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_auth-redesign-build\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_auth-redesign-build\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_auth-redesign-build\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_auth-redesign-build\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_solution-build\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_solution-build\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_solution-build\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_solution-build\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_solution-build\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_solution-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_solution-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_solution-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_solution-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_solution-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_balanced-ui-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_balanced-ui-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_balanced-ui-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_balanced-ui-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_balanced-ui-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_db-exception-fix-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_db-exception-fix-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_db-exception-fix-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_db-exception-fix-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_db-exception-fix-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Tool_manerger.resources
+C:\Users\phanm\Downloads\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.WaterMonitorDashboardForm.resources
+C:\Users\phanm\Downloads\manegment_device\_offline-login-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_offline-login-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_offline-login-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_offline-login-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_offline-login-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_post-login-ui-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_post-login-ui-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_post-login-ui-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_post-login-ui-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_post-login-ui-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_dashboard-layout-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_dashboard-layout-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_dashboard-layout-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_dashboard-layout-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_dashboard-layout-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_title-spacing-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_title-spacing-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_title-spacing-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_title-spacing-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_title-spacing-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_loading-timeout-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_loading-timeout-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_loading-timeout-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_loading-timeout-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_loading-timeout-build\Debug\net9.0-windows\manegment_device.pdb
+C:\Users\phanm\Downloads\manegment_device\_rollback-check-build\Debug\net9.0-windows\manegment_device.exe
+C:\Users\phanm\Downloads\manegment_device\_rollback-check-build\Debug\net9.0-windows\manegment_device.deps.json
+C:\Users\phanm\Downloads\manegment_device\_rollback-check-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+C:\Users\phanm\Downloads\manegment_device\_rollback-check-build\Debug\net9.0-windows\manegment_device.dll
+C:\Users\phanm\Downloads\manegment_device\_rollback-check-build\Debug\net9.0-windows\manegment_device.pdb
+D:\Downloads\manegment_device (1)\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.exe
+D:\Downloads\manegment_device (1)\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.deps.json
+D:\Downloads\manegment_device (1)\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.runtimeconfig.json
+D:\Downloads\manegment_device (1)\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.dll
+D:\Downloads\manegment_device (1)\manegment_device\_home-theme-build\Debug\net9.0-windows\manegment_device.pdb
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.AssemblyReference.cache
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.login_form.resources
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Menuu.resources
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Sign_form.resources
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.Tool_manerger.resources
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.WaterMonitorDashboardForm.resources
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.GenerateResource.cache
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfoInputs.cache
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.AssemblyInfo.cs
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.csproj.CoreCompileInputs.cache
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegmen.59A093EB.Up2Date
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.dll
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\refint\manegment_device.dll
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.pdb
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\manegment_device.genruntimeconfig.cache
+D:\Downloads\manegment_device (1)\manegment_device\manegment_device\obj\Debug\net9.0-windows\ref\manegment_device.dll

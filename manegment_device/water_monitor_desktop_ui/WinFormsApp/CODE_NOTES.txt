@@ -1,0 +1,55 @@
+WATER MONITOR WINFORMS - GHI CHU CODE
+====================================
+
+1. Program.cs
+   Entry point cua ung dung. ApplicationConfiguration.Initialize() khoi tao
+   giao dien WinForms, sau do mo MainForm.
+
+2. MainForm.cs - MainForm
+   Cua so chinh va dieu huong 4 man hinh. BuildShell() tao thanh ben va
+   thanh tieu de; SetPage() xoa noi dung cu truoc khi hien thi man moi.
+
+   ShowOverview()
+   Hien thi chi so pH, TDS, nhiet do va TrendPreview. So lieu la minh hoa;
+   thay bang gia tri tu backend khi co API/MQTT.
+
+   ShowHistory()
+   Man hinh lich su dang la bo loc mau. Can ket noi API/backend de lay va
+   ve du lieu thuc te.
+
+   ShowDevices()
+   Hien thi danh sach tu BindingList<WaterDevice>. Nut Them thiet bi mo
+   AddDevice(); nut Hieu chinh mo Calibrate() cho dong dang chon.
+
+   AddDevice()
+   Kiem tra ten, ID bat buoc va khong cho phep ID bi trung. Thiet bi moi
+   chi duoc them vao bo nho cua phien hien tai, chua luu vao database.
+
+   Calibrate()
+   Nhan do lech pH, he so TDS va do lech nhiet do. So duoc chap nhan theo
+   dau cham hoac dau phay; he so TDS phai lon hon 0. Day chua phat lenh MQTT.
+   Khi co backend, thay phan MessageBox thanh lenh publish theo topic/thong
+   diep ma firmware quy uoc.
+
+   ShowSettings()
+   Vi tri de bo sung dia chi broker, cong, client ID va tuy chon ket noi.
+   Khong hard-code thong tin dang nhap hay broker trong ban giao dien mau.
+
+3. WaterDevice
+   Model nho cho danh sach xem thu: ten, ma/MAC, khu vuc va trang thai.
+   Nen thay doi model nay theo schema cua backend sau khi thong nhat API.
+
+4. TrendPreview
+   Ve duong xu huong bang GDI+ de khong can thu vien bieu do. Du lieu hien
+   tai la diem tinh; co the thay bang chuoi mau do tu backend.
+
+5. WaterMonitor.WinForms.csproj
+   Project Windows Forms, target .NET 8 Windows. Chay tu thu muc goc:
+   dotnet run --project .\WinFormsApp\WaterMonitor.WinForms.csproj
+
+LUU Y
+-----
+- Ung dung duoc dinh huong chay tren may Windows trong mang noi bo.
+- Chua co MQTT, backend, database, dang nhap that hoac du lieu thoi gian thuc.
+- Khong xem thong bao "da kiem tra" la xac nhan thiet bi da nhan cau hinh.
+- Flutter source o thu muc goc la prototype cu, khong duoc WinForms build.

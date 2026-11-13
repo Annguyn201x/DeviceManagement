@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\manegment_device (1)\\manegment_device\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|d:\\downloads\\manegment_device (1)\\manegment_device\\manegment_device\\offlineaccountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|solutionrelative:manegment_device\\offlineaccountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|d:\\downloads\\manegment_device (1)\\manegment_device\\manegment_device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|solutionrelative:manegment_device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|d:\\downloads\\manegment_device (1)\\manegment_device\\manegment_device\\tool_manerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|solutionrelative:manegment_device\\tool_manerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|d:\\downloads\\manegment_device (1)\\manegment_device\\manegment_device\\tool_manerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|solutionrelative:manegment_device\\tool_manerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|d:\\downloads\\manegment_device (1)\\manegment_device\\manegment_device\\watermonitordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613C8411-46DA-4AB2-AF62-7218EE5443A2}|manegment_device\\manegment_device.csproj|solutionrelative:manegment_device\\watermonitordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfflineAccountStore.cs",
+              "DocumentMoniker": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\OfflineAccountStore.cs",
+              "RelativeDocumentMoniker": "manegment_device\\OfflineAccountStore.cs",
+              "ToolTip": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\OfflineAccountStore.cs",
+              "RelativeToolTip": "manegment_device\\OfflineAccountStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:47:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Program.cs",
+              "RelativeDocumentMoniker": "manegment_device\\Program.cs",
+              "ToolTip": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Program.cs",
+              "RelativeToolTip": "manegment_device\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:47:50.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tool_manerger.cs",
+              "DocumentMoniker": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Tool_manerger.cs",
+              "RelativeDocumentMoniker": "manegment_device\\Tool_manerger.cs",
+              "ToolTip": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Tool_manerger.cs",
+              "RelativeToolTip": "manegment_device\\Tool_manerger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:47:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaterMonitorDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\WaterMonitorDashboardForm.cs",
+              "RelativeDocumentMoniker": "manegment_device\\WaterMonitorDashboardForm.cs",
+              "ToolTip": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\WaterMonitorDashboardForm.cs [Design]",
+              "RelativeToolTip": "manegment_device\\WaterMonitorDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:47:05.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tool_manerger.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Tool_manerger.cs",
+              "RelativeDocumentMoniker": "manegment_device\\Tool_manerger.cs",
+              "ToolTip": "D:\\Downloads\\manegment_device (1)\\manegment_device\\manegment_device\\Tool_manerger.cs [Design]",
+              "RelativeToolTip": "manegment_device\\Tool_manerger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T15:47:02.664Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

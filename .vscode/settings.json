@@ -1,0 +1,5 @@
+{
+    "platformio-ide.activateOnlyOnPlatformIOProject": false,
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "a:/manegment_device/manegment_device/water_monitor_desktop_ui/windows"
+}
